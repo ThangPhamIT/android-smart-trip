@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.linh.smarttrip.InfoActivity">
+    <item android:id="@+id/action_map" android:title="Menu"
+        android:icon="@drawable/direction_icon"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item android:id="@+id/action_share" android:title="Share Facebook"
+        android:icon="@drawable/facebok" android:orderInCategory="100"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_share_messenger" android:title="Share Facebook"
+        android:icon="@drawable/messenger" android:orderInCategory="100"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_edit" android:title="Edit"
+        android:orderInCategory="100"
+        app:showAsAction="withText"/>
+</menu>

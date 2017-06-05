@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">SmartTrip</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_before_welcome">BeforeWelcomeActivity</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string-array name="options">
+        <item>Restaurants</item>
+        <item>Hotels</item>
+        <item>Shops</item>
+        <item>Parks and Gardens</item>
+        <item>Theaters and Museums</item>
+        <item>Attraction Map</item>
+        <item>Favorite List</item>
+    </string-array>
+    <string name="title_activity_list_attraction">ListAttractionActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string-array name="menu_r1">
+        <item>Burrata Prosciutto Pizza\n 290,000 VND</item>
+        <item>Flower Pizza \n 140,000 VND</item>
+        <item>Prosciutto Margherita\n330,000 VND</item>
+        <item>4 Cheese Pizza\n240,000 VND</item>
+        <item>Margherita\n 150,000 VND</item>
+        <item>Teriyaki Chicken\n 200,000 VND</item>
+        <item>Spaghetti with Flowers \n 115,000 VND</item>
+        <item>Tomato Spaghetti with Crab and Tomato Sauce\n 220,000 VND</item>
+        <item>Tomato Spaghetti with House-made Mascarpone\n 140,000 VND</item>
+    </string-array>
+    <string-array name="menu_r2">
+        <item>Tripple Choco Fondue</item>
+        <item>Choco Devil Brownie</item>
+        <item>Cheesecake Choco Smore</item>
+        <item>Souffle Pure Cheese</item>
+        <item>Tripple Cheese Fondue</item>
+        <item>Cheese Soup Bread</item>
+        <item>Bene Cheesecake Bingsu</item>
+        <item>Mango Bingsu</item>
+        <item>Kiwi Bingsu</item>
+        <item>Caramel Cinamon Bread</item>
+        <item>Garlic Cheese Bread</item>
+        <item>Plain Waffle</item>
+        <item>Gelato Waffle</item>
+        <item>Tiramisu Waffle</item>
+        <item>Blueberry Yogurt Waffle</item>
+    </string-array>
+    <string-array name="menu_r3">
+        <item>Thin Crispy</item>
+        <item>Extra Loaded Pan Pizza</item>
+        <item>Extreme Crust Pizza</item>
+        <item>Extra Cheesy Sausage Bites</item>
+        <item>Ham and Mushroom with White Cream Sauce</item>
+        <item>Bacon with Carbonara Sauce</item>
+<item>Fried Chicken Fillet with Mushroom Sauce</item>
+        <item>Seafood with Black  Pepper Sauce</item>
+        <item>Chocolate Sundae Deluxe</item>
+        <item>Strawberry Sundae Deluxe</item>
+    </string-array>
+    <string-array name="menu_r4">
+        <item>Herbal Jelly No.1 \n Lotus seeds + Green bean + Boba</item>
+        <item>Herbal Jelly No.2 \n Yam + Boba</item>
+        <item>Herbal Jelly No.3 \n Red bean + Peanut + Boba</item>
+        <item>Herbal Jelly No.4 \n Red Bean + Taro + Boba</item>
+        <item>Herbal Jelly No.5 \n Jellies + Boba</item>
+        <item>Herbal Jelly Meet Fresh</item>
+        <item>Slushy Green Bean </item>
+        <item>Slushy Red bean </item>
+        <item>Slushy Taro </item>
+        <item>Slushy Yam </item>
+    </string-array>
+    <string-array name="menu_r5">
+        <item>Pork ribs hotpot</item>
+        <item>Thai Hotpot</item>
+        <item>Mushroom Hotpot</item>
+        <item>Kimchi Hotpot</item>
+        <item>SUSHI</item>
+        <item>Seasonal Fruits</item>
+        <item>PANACOTA</item>
+        <item>SOFT DRINK</item>
+        <item>Juice</item>
+        <item>Special Kichi</item>
+    </string-array>
+    <string-array name="menu_r6">
+        <item>Amrican Beef Bacon</item>
+        <item>Samgyeosal Pork Bacon</item>
+        <item>Korean Seafood Pancake </item>
+        <item>Korean Beef with Salad</item>
+        <item>Tomatoes with Caesar sauce and Onion</item>
+        <item>Caesar Salad</item>
+        <item>Mantu Soup</item>
+        <item>Korean Beef Soup</item>
+        <item>Korean Spicy Beef Soup</item>
+    </string-array>
+    <string-array name="menu_r13">
+        <item>10 Miếng Cánh Gà (Chicken McWings™) \n 170000VND</item>
+        <item>6 Miếng Cánh Gà (Chicken McWings™)\n 120000VND</item>
+        <item>20 miếng  Gà McNuggets™ (20 Chicken McNuggets™) \n 110000VND</item>
+        <item>9 miếng  Gà McNuggets™ (9 Chicken McNuggets™) \n 60000VND</item>
+        <item>Khoai Tây Chiên  (size lớn) \n 35000VND</item>
+        <item>Burger Bò miếng lớn phô-mai (McRoyal™ with Cheese) \n 60000VND</item>
+        <item>Burger Bò miếng lớn đặc biệt (McRoyal™ Deluxe) \n 70000VND</item>
+        <item>Burger phi-lê gà đặc biệt (McSpicy™ Deluxe) \n 70000VND</item>
+        <item>Burger 2 lớp heo đặc biệt (Double McPork™ Deluxe) \n 70000VND</item>
+        <item>Burger Heo (McPork™) \n 70000VND</item>
+    </string-array>
+    <string-array name="menu_r10">
+        <item>Hazelnut Macchiato</item>
+        <item>Ristretto Bianco</item>
+        <item>Asian Dolce Latte</item>
+        <item>Cà phê Americano</item>
+        <item>Cà phê sữa</item>
+        <item>Cà phê Mocha</item>
+    </string-array>
+    <string-array name="menu_r11">
+        <item>Hot Houjicha Latte</item>
+        <item>Yaki Meshi</item>
+        <item>Matcha Mousse</item>
+        <item>Original Japanese Parfait</item>
+        <item>Shizuoka Tea</item>
+        <item>Hot Matcha Latte</item>
+    </string-array>
+    <string name="title_activity_maps_all">Map</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+</resources>

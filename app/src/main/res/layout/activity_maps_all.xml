@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:id="@+id/map"
+    tools:context="com.example.linh.smarttrip.MapsAllActivity"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_weight="1"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_restaurant"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:layout_margin="2dp"
+            android:text="RESTAURANT"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_hotel"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:layout_margin="2dp"
+            android:text="HOTEL"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_shop"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:layout_margin="2dp"
+            android:text="SHOP"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_park"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:layout_margin="2dp"
+            android:text="PARK AND GARDEN"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_theater"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:layout_margin="2dp"
+            android:text="THEATER AND MUSEUM"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_show_list"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:layout_margin="2dp"
+            android:text="LIST OF ATTRACTIONS"
+            />
+    </LinearLayout>
+
+</LinearLayout>
